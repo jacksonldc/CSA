@@ -1,2 +1,1 @@
-# CSA
-Controle e Saida de Alunos
+# CSA - Controle e Saída de Alunos
