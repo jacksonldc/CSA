@@ -13,3 +13,14 @@ predominantemente manual, reduzindo possíveis dificuldades na comunicação ent
 responsáveis, alunos e a instituição de ensino. Além disso, a utilização de uma plataforma
 digital pode proporcionar maior organização das solicitações, facilitando seu
 acompanhamento e gerenciamento pelos responsáveis pelo processo.
+
+## Acesse o [Trello do Projeto](https://trello.com/invite/b/6a90759579bde0e3b0c64586/ATTIb3819dd8d254fdbec06389bec0f510deB887C6A5/csa-controle-de-saida-dos-alunos) ##
+
+## Participantes:
+- [Jackson Luiz Dias Carvalho](https://github.com/jacksonldc)
+- [Francisco nardi santos](https://github.com/Fnardi08)
+- [Mikaías Pinheiro de Lima](https://github.com/Mikaias-rbx)
+- [Mateus da silva carvalho](https://github.com/mscarv40-droid)
+- Pablo Rodrigues Melo
+- [Cláudio George Boaventura
+de Faria](https://github.com/Georgebfaria)
