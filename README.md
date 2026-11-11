@@ -21,6 +21,6 @@ acompanhamento e gerenciamento pelos responsáveis pelo processo.
 - [Francisco nardi santos](https://github.com/Fnardi08)
 - [Mikaías Pinheiro de Lima](https://github.com/Mikaias-rbx)
 - [Mateus da silva carvalho](https://github.com/mscarv40-droid)
-- Pablo Rodrigues Melo
+- [Pablo Rodrigues Melo](https://github.com/PabloRdg-dev)
 - [Cláudio George Boaventura
 de Faria](https://github.com/Georgebfaria)
